@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AdvancedSessions-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Engine 4\UE4\Shooter 4.26\Intermediate\Build\Win64\ShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Engine 4\UE4\Shooter 4.26\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"E:\Unreal Engine 4\UE4\Shooter 4.26\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.1_of_2.cpp.obj"
+"E:\Unreal Engine 4\UE4\Shooter 4.26\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.2_of_2.cpp.obj"
+"E:\Unreal Engine 4\UE4\Shooter 4.26\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Default.rc2.res"
+/OUT:"E:\Unreal Engine 4\UE4\Shooter 4.26\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions-0004.lib"
+/INCLUDE:IMPLEMENT_MODULE_AdvancedSessions

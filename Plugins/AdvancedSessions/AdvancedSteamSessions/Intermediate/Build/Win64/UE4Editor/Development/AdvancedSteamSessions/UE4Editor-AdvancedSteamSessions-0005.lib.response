@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AdvancedSteamSessions-0005.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Engine 4\UE4\Shooter 4.26\Intermediate\Build\Win64\ShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Engine 4\UE4\Shooter 4.26\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"E:\Unreal Engine 4\UE4\Shooter 4.26\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"E:\Unreal Engine 4\UE4\Shooter 4.26\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"E:\Unreal Engine 4\UE4\Shooter 4.26\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions-0005.lib"
+/INCLUDE:IMPLEMENT_MODULE_AdvancedSteamSessions
